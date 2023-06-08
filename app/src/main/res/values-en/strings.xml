@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RickAndMorty</string>
+
+    <string name="search">Search character</string>
+
+    //properties of character
+    <string name="specie">Specie:</string>
+    <string name="gender">Gender:</string>
+    <string name="status">Status:</string>
+    <string name="origin">Origin:</string>
+    <string name="location">Location:</string>
+    <string name="num_of_episodes">NºEpisodes:</string>
+</resources>

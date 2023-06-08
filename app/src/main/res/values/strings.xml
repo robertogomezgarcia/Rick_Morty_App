@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RickAndMorty</string>
+
+    <string name="search">Buscar personaje</string>
+
+    //properties of character
+    <string name="specie">Especie:</string>
+    <string name="gender">Género:</string>
+    <string name="status">Estado:</string>
+    <string name="origin">Origen:</string>
+    <string name="location">Localización:</string>
+    <string name="num_of_episodes">NºEpisodios:</string>
 </resources>
